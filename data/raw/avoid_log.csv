@@ -1,0 +1,2 @@
+frame,pl_ts_us,yaw_deg,count,cx,area,infer_ms,action,latency_ms,turn_err_deg,ybot,cls
+1,33923845,-0.558,1,0.642,0.096,14.15,turn_left,23.79,60.12,0.995,39
